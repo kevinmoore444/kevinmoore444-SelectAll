@@ -16,7 +16,7 @@ import java.util.List;
  *
  * NOTE: the * is a wildcard character to retrieve all the columns from the table.
  *
- * Additional reference material if needed: https://www.w3schools.com/sql/sql_select.asp
+ * Additional eference material if needed: https://www.w3schools.com/sql/sql_select.asp
  */
 public class GetAllSongs {
 
